@@ -2,7 +2,8 @@
 Automatiser la suppression d'un dossier Bureau
 
 # Futures :
-
+La version0 (ou version initial permet de crée un dossier puis éffacer le dossier ainsi que son contenu).
+Elle est à améliorer au fil du temps.
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
